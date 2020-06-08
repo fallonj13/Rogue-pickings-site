@@ -1,0 +1,205 @@
+/***** Base Styles *****/
+
+body {
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .pickings {
+    font-family: 'Montserrat', sans-serif;
+    color: #000000;
+  }
+  
+  /***** Grid *****/
+  
+  .full-width {
+    width: 1200px;
+    margin: 0 auto;
+    vertical-align: top;
+  }
+  
+  .half-width {
+    width: 600px;
+    float: left;
+  }
+  
+  .third-width {
+    width: 400px;
+    float: left;
+  }
+  
+  .third-width-borders {
+    height: 250px;
+    width: 396px;
+    float: left;
+    border-left: 2px solid #dedbdc;
+    border-right: 2px solid #dedbdc;
+  }
+  
+  .two-thirds-width {
+    width: 800px;
+    float: left;
+  }
+  
+  /***** Header *****/
+  
+  header {
+    height: 410px;
+  }
+  
+  header h1 {
+      text-transform: uppercase;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 30px;
+      color: #77a466;
+      padding: 30px 0px;
+  }
+  
+  nav {
+      float: right;
+      padding: 45px 0;
+  }
+  nav ul li{
+      display: inline-block;
+  }
+  nav ul li a {
+      text-transform: uppercase;
+      text-decoration: none;
+      font-size: 14px;
+      color: #77a466;
+      padding-left: 20px;
+  }
+  
+  header h2 span {
+      color: #2b2b2b;
+  }
+  
+  
+  /***** top image *****/
+  
+  #hero .full-width {
+      padding: 10px 0px;
+  }
+  
+  #hero {
+      height: 300px;
+  }
+  #hero img {
+    border-top: 3px solid #77a466;
+    border-bottom: 3px solid #77a466;
+  }
+  
+  
+  /***** about *****/
+  
+  #about {
+    height: 230px;
+  }
+  
+  #about h2 {
+      text-transform: uppercase;
+      font-family: 'Montserrat', sans-serif;
+      line-height: 20px;
+      font-size: 18px;
+      color: #77a466;
+      padding-top: 60px;
+  }
+  
+  #about p {
+      font-size: 16px;
+      color: #000000;
+      line-height: 25px;
+      padding: 15px 0;
+  }
+  
+  /***** menu reviews contact *****/
+  
+  #menu .full-width {
+      border-top: 2px solid #dedbdc;
+      border-bottom: 2px solid #dedbdc;
+      height: 250px;
+  }
+  
+  #menu h3 {
+      font-family: 'Montserrat', sans-serif;
+      text-transform: uppercase;
+      font-size: 12px;
+      line-height: 14px;
+      margin: 0 auto;
+      padding-top: 30px;
+      text-indent: 30px;
+  }
+  
+  
+  #menu h4 {
+      font-family: 'Montserrat', sans-serif;
+      text-transform: uppercase;
+      font-size: 12px;
+      line-height: 14px;
+      margin: 0 auto;
+      padding-top: 30px;
+    }
+  
+  #menu h5 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: #77a466;
+    line-height: 18px;
+    font-weight: lighter;
+  }
+  
+  
+  #menu p {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 16px;
+      line-height: 21px;
+      color: #000000;
+      padding-left: 30px;
+      padding-right: 30px;
+  }
+  
+  .menu-text {
+    color: #77a466;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    line-height: 18px;
+  }
+  
+   .adress-text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    line-height: 21px;
+    padding-left: 30px;
+  }
+  
+  /***** footer *****/
+  
+  #footer {
+      font-family: 'Montserrat', sans-serif;
+  }
+  
+  #footer .full-width {
+      padding: 10px 0;
+  }
+  
+  #footer p {
+    text-align: center;
+    font-weight: bolder;
+  }
+  
+  .fresh-script {
+      font-family: 'Dancing Script', cursive;
+      font-size: 20px;
+      color:  #77a466;
+  }
+
+
+
+
+
+
+
+  
+
+
+
+
